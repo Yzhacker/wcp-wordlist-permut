@@ -1,5 +1,10 @@
 
+##  wcp = Wordlist concatenação + Permutação
+
+# Esse Script usa  itertools, necessário apenas se para gerar permutações ou combinações entre diferentes itens da lista de entrada.
+
 # 01 Esse Script faz Permutação + Concatenações de palavras ou frases, se você usar varias palavras ou frazes vai tornar uma so.
+
 #Explicação do Script
  # Permutações:
 
@@ -22,7 +27,7 @@
 # Para adicionar mais palavras, insira-as na lista palavras.
 # Para incluir caracteres especiais, insira-os manualmente no conjunto gerado ou adicione uma etapa de geração extra.
 
-#vi wcp.py 
+
 
 import itertools
 
