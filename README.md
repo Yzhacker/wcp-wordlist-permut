@@ -10,7 +10,10 @@
  insert para mudar sua wordlist
  Aperte; esc
  Escreva :wq
- Aperte enter  
+ Aperte enter.
+ Para usar:
+ python3 WLGeneration.py
+ Wordlist criada com xxx variações e salva em 'wordlist_variada.txt'.  
  Pronto worldlist criada como arquivo txt.
  Enjoy it.
 
