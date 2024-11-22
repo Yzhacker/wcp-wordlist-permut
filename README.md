@@ -1,6 +1,19 @@
 ## wcp-wordlist-permut
  Wordlist Criator by Permutation  by Python.
 
+ Para usar-los:
+ vi <nome da wordlist>.py
+ vai abrir o editor vim
+ cole o codigo.
+ caso não consiga aperte INS ou Insert no seu teclado para iniciar a função de edição.
+ agora cole o codigo. 
+ insert para mudar sua wordlist
+ Aperte; esc
+ Escreva :wq
+ Aperte enter  
+ Pronto worldlist criada como arquivo txt.
+ Enjoy it.
+
 # São 3 geradores de Word list.
 
 # 1 -  wcp.py
