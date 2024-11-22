@@ -1,10 +1,12 @@
 # 2 Simple Permutation - Wordlist Generator
+# Script baseado apenas em manipulação de strings e loops simples.
 # Lista de frases
+#
 frases = [
-    "Personal Jesus",
-    "Enjoy the Silence",
-    "Policy of Truth",
-    "World in My Eyes"
+    "Personal Jesus", # exemplo 
+    "Enjoy the Silence", # exemplo 
+    "Policy of Truth", # exemplo 
+    "World in My Eyes" # exemplo 
 ]
 
 # Função para processar a wordlist
